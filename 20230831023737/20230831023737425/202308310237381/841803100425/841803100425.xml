@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/ern/382" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:schemaLocation="http://ddex.net/xml/ern/382 http://ddex.net/xml/ern/382/release-notification.xsd" MessageSchemaVersionId="ern/382" LanguageAndScriptCode="en">
+  <MessageHeader>
+    <MessageThreadId>20230831023737425</MessageThreadId>
+    <MessageId>20230831023737425</MessageId>
+    <MessageSender>
+      <PartyId>PADPIDA2014051910Y</PartyId>
+      <PartyName>
+        <FullName>SIDMM</FullName>
+      </PartyName>
+    </MessageSender>
+    <SenderOnBehalfof>
+      <PartyId>PADPIDA2014051910Y</PartyId>
+      <PartyName>
+        <FullName>SIDMM</FullName>
+      </PartyName>
+    </SenderOnBehalfof>
+    <MessageRecipient>
+      <PartyId>PA-DPIDA-2012073007-R</PartyId>
+      <PartyName>
+        <FullName>Saavn</FullName>
+      </PartyName>
+    </MessageRecipient>
+    <MessageCreatedDateTime>2023-08-31T02:37:38.221-05:00</MessageCreatedDateTime>
+    <MessageControlType>LiveMessage</MessageControlType>
+  </MessageHeader>
+  <UpdateIndicator>OriginalMessage</UpdateIndicator>
+  <ResourceList>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>INN130000602</ISRC>
+        <CatalogNumber Namespace="DPID:PADPIDA2014051910Y">TMCD0024</CatalogNumber>
+        <ProprietaryId Namespace="DPID:PADPIDA2014051910Y">PADPIDA2014051910Y:TMCD0024</ProprietaryId>
+      </SoundRecordingId>
+      <ResourceReference>A1</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Kandha Kadamba</TitleText>
+      </ReferenceTitle>
+      <LanguageOfPerformance>ta</LanguageOfPerformance>
+      <Duration>PT00H03M53S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="FormalTitle">
+          <TitleText>Kandha Kadamba</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Kandha Kadamba</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName></FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Track Musics</LabelName>
+        <OriginalResourceReleaseDate>2023-08-10 </OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2023</Year>
+          <PLineText>2023 Track Musics</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>World Music</GenreText>
+          <SubGenre></SubGenre>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+          <AudioCodecType>PCM</AudioCodecType>
+          <BitRate UnitOfMeasure="kbps">128</BitRate>
+          <NumberOfChannels></NumberOfChannels>
+          <SamplingRate UnitOfMeasure="KHz">44.1</SamplingRate>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>INN130000602.wav</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>559D9C471BFF343CC22F7296396112B</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <Image>
+      <ImageType>FrontCoverImage</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="DPID:PADPIDA2014051910Y">PADPIDA2014051910Y</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A2</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T2</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>1400</ImageHeight>
+          <ImageWidth>1400</ImageWidth>
+          <File>
+            <FileName>841803100425.jpg</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>559D9C471BFF343CC22F7296396112B</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+    <Text>
+      <TextType>LyricText</TextType>
+      <TextId>
+        <ProprietaryId Namespace="DPID:PADPIDA2014051910Y">PADPIDA2014051910Y</ProprietaryId>
+      </TextId>
+      <ResourceReference>A3</ResourceReference>
+      <TextDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalTextDetails>
+          <TechnicalResourceDetailsReference>T3</TechnicalResourceDetailsReference>
+          <TextCodecType UserDefinedValue="txt">UserDefined</TextCodecType>
+          <File>
+            <FileName>INN130000602.txt</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>a2eea6ad0f5a475b9ed828af3058507a</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalTextDetails>
+      </TextDetailsByTerritory>
+    </Text>
+  </ResourceList>
+  <ReleaseList>
+    <Release>
+      <ReleaseId>
+        <ICPN IsEan="true">841803100425</ICPN>
+        <CatalogNumber DPID="PADPIDA2014051910Y">TMCD0024</CatalogNumber>
+        <ProprietaryId DPID="PADPIDA2014051910Y">PADPIDA2014051910Y</ProprietaryId>
+      </ReleaseId>
+      <ReleaseReference>R1</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Kandha Kadamba Kathir Vela</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A2</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A3</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>Single</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>S.A. Rajkumar</DisplayArtistName>
+        <LabelName>Track Musics</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Kandha Kadamba Kathir Vela</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Kandha Kadamba Kathir Vela</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>S.A. Rajkumar</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <ResourceGroup>
+            <Title TitleType="GroupingTitle">
+              <TitleText>Kandha Kadamba Kathir Vela</TitleText>
+            </Title>
+            <SequenceNumber> 1</SequenceNumber>
+            <ResourceGroupContentItem>
+              <SequenceNumber>1</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+              <LinkedReleaseResourceReference LinkDescription="Lyrics">A6</LinkedReleaseResourceReference>
+            </ResourceGroupContentItem>
+          </ResourceGroup>
+          <ResourceGroupContentItem>
+            <ResourceType>Image</ResourceType>
+            <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A2</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+          <ResourceGroupContentItem>
+            <ResourceType>Text</ResourceType>
+            <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A3</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Kandha Kadamba Kathir Vela</TitleText>
+        </Title>
+        <Genre>
+          <GenreText>World Music</GenreText>
+          <SubGenre></SubGenre>
+        </Genre>
+        <OriginalReleaseDate>2023-08-10</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2023</Year>
+        <PLineText>2023 Track Musics</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2023</Year>
+        <CLineText>2023 Track Musics</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>INN130000602</ISRC>
+        <CatalogNumber DPID="PADPIDA2014051910Y">TMCD0024</CatalogNumber>
+        <ProprietaryId DPID="PADPIDA2014051910Y">PADPIDA2014051910Y</ProprietaryId>
+      </ReleaseId>
+      <ReleaseReference>R1</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Kandha Kadamba</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>S.A. Rajkumar</DisplayArtistName>
+        <LabelName>Track Musics</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Kandha Kadamba</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName></FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <SequenceNumber>1</SequenceNumber>
+          <ResourceGroupContentItem>
+            <SequenceNumber>1</SequenceNumber>
+            <ResourceType>SoundRecording</ResourceType>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+            <LinkedReleaseResourceReference LinkDescription="Lyrics">A3</LinkedReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+        <Genre>
+          <GenreText>World Music</GenreText>
+          <SubGenre>WORLD/ROMANCE</SubGenre>
+        </Genre>
+        <OriginalReleaseDate>2023-08-10</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <Duration>PT00H03M53S</Duration>
+      <CLine>
+        <Year>2023</Year>
+        <CLineText>2023 Track Musics</CLineText>
+      </CLine>
+    </Release>
+  </ReleaseList>
+  <DealList>
+    <ReleaseDeal>
+      <DealReleaseReference>R1</DealReleaseReference>
+      <Deal>
+        <DealReference>D1</DealReference>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceType Namespace="PADPIDA2014051910Y">Mid Album</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2023-08-10</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2023-08-31</EffectiveDate>
+    </ReleaseDeal>
+  </DealList>
+</ern:NewReleaseMessage>
